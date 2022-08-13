@@ -1,0 +1,6 @@
+#!/bin/sh
+
+apm | grep -o ..% >> output
+
+apm
+date
