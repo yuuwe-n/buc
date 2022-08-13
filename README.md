@@ -1,4 +1,4 @@
-# BUC: battery usage calculator
+# buc: battery usage calculator
 > cli tool to calculate the average power your laptop uses
 
 # dependencies
